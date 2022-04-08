@@ -1,0 +1,16 @@
+{
+  "name": "pronc/firebasecrud",
+  "description": "phpcrud",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "proncotech",
+      "email": "proncotech@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "kreait/firebase-php": "^5.18"
+  }
+}
